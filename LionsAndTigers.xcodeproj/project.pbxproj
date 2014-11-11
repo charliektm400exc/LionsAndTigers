@@ -13,6 +13,7 @@
 		CBC779751A118BE400CB0D34 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CBC779741A118BE400CB0D34 /* Images.xcassets */; };
 		CBC779781A118BE400CB0D34 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = CBC779761A118BE400CB0D34 /* LaunchScreen.xib */; };
 		CBC779841A118BE400CB0D34 /* LionsAndTigersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBC779831A118BE400CB0D34 /* LionsAndTigersTests.swift */; };
+		CBC7798E1A11B6C700CB0D34 /* Tiger.swift in Sources */ = {isa = PBXBuildFile; fileRef = CBC7798D1A11B6C700CB0D34 /* Tiger.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		CBC7797D1A118BE400CB0D34 /* LionsAndTigersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LionsAndTigersTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CBC779821A118BE400CB0D34 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CBC779831A118BE400CB0D34 /* LionsAndTigersTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LionsAndTigersTests.swift; sourceTree = "<group>"; };
+		CBC7798D1A11B6C700CB0D34 /* Tiger.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tiger.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			children = (
 				CBC7796D1A118BE400CB0D34 /* AppDelegate.swift */,
 				CBC7796F1A118BE400CB0D34 /* ViewController.swift */,
+				CBC7798D1A11B6C700CB0D34 /* Tiger.swift */,
 				CBC779711A118BE400CB0D34 /* Main.storyboard */,
 				CBC779741A118BE400CB0D34 /* Images.xcassets */,
 				CBC779761A118BE400CB0D34 /* LaunchScreen.xib */,
@@ -213,6 +216,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CBC779701A118BE400CB0D34 /* ViewController.swift in Sources */,
+				CBC7798E1A11B6C700CB0D34 /* Tiger.swift in Sources */,
 				CBC7796E1A118BE400CB0D34 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
